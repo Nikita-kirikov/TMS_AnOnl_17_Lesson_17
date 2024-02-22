@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMS_lesson_17</string>
+    <string name="activity_title">Title_one</string>
+    <string name="button_click">Click me</string>
+</resources>
